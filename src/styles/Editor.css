@@ -1,0 +1,13 @@
+.editor {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#editor {
+    /* display: inline-block; */
+    height: 80%;
+    width: 40%;
+    /* padding-top: 50px; */
+}
